@@ -1,4 +1,5 @@
 # My First Portfolio
+<img src= "https://raw.githubusercontent.com/SnupeTheTechy/Portfolio-main/blob/main/Snapshot_21-07-01_09-41-19.png">
 <h1>🍕This is a Portfolio Website 💻</h1>
 <p>I have always wanted a website that shows my work.</p>
 <p>This is a Responsive Portfolio Website I built from scratch
