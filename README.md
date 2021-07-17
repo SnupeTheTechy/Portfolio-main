@@ -25,8 +25,9 @@
    <h1>Deployed Already?</h1>
    <p>Yes, this website has been deployed already and you can view it by using these links:<p>
   <ul>
-    <li>https://portfolio-main-git-main-snupeyrn.vercel.app/<li>
-    <li>https://portfolio-main-phi.vercel.app/</li>
+    <li> https://portfolio-main-git-main-snupeyrn.vercel.app/ <li>
+    <li> https://portfolio-main-phi.vercel.app/ </li>
+     <li> https://snupethetechy.github.io/Portfolio-main/ </li>
  </ul>
  <hr></hr>
  <h1>Will You Love A ☕Coffee?</h1>
